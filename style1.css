@@ -1,0 +1,70 @@
+.navbar{
+    width: 100%;
+    margin: auto;
+    align-items: center;
+    justify-content: space-between;
+    display: flex;
+}
+.heading-1{
+    text-align: center;
+    color: aliceblue;
+    font-weight: 1000;
+}
+.heading-2{
+    text-align: center;
+    color: aliceblue;
+    font-weight: 1000;
+    font-size: xx-large;
+}
+.heading-3{
+    text-align: center;
+    font-weight: 1000;
+    font-size: xxx-large;
+    color: aliceblue;
+}
+.button{
+
+}
+
+.button button{
+padding: 8px 16px;
+    font-size: 16px;
+    color: white;
+    background-color: transparent;
+}
+.button button:hover{
+    background-color: aliceblue;
+    color: black;
+    cursor: pointer;
+}
+.navbar .logo a{
+text-decoration: none;
+    color: aliceblue;
+}
+.navbar .list li{
+    margin: 0 8px;
+    list-style: none;
+    color: aliceblue;
+
+}
+.navbar .list a{
+    text-decoration: none;
+}
+.home{background-image: url("hero-bg.jpg");
+background-size: cover;
+width: 100%;
+    height: 100vh;
+text-align: center}
+.text .text-one{
+    text-align: center;
+    color: aliceblue;
+}
+.navbar .list{
+    display: flex;
+    position: relative;
+}
+.navbar .list a{
+    color: aliceblue;
+}
+.navbar .list a:hover{
+    text-decoration: underline;}
